@@ -30,7 +30,7 @@
 
 def current_time():
     import time
-    t = ntptime.time()
+    t = time.time()
     return t + 946684800
 
 def enc_percent(s):
