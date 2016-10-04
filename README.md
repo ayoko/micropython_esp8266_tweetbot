@@ -14,6 +14,12 @@ https://github.com/micropython/micropython-lib/pull/82/files
 
 In addition, you need some authentication code for Twitter.  You can obtain
 them at https://dev.twitter.com/oauth/overview/application-owner-access-tokens .
+You can apply them to the variables in the tweet.py as following.
+
+CK = ''     # CONSUMER_KEY
+CS = ''     # CONSUMER_SECRET
+AT = ''     # ACCESS_KEY
+AS = ''     # ACCESS_SECRET
 
 Any question, please send email to yokoyama@flogics.com though I may not have time to answer clearly.
 
