@@ -25,10 +25,10 @@ AT = ''     # ACCESS_KEY
 AS = ''     # ACCESS_SECRET
 ```
 
-Any question, please send email to yokoyama@flogics.com though I may not have time to answer clearly.
+Any question, please send email to github@flogics.com though I may not have time to answer clearly.
 
 Thanks you.
 
 Yokoyama, Atsushi
-Firmlogics
-http://flogics.com
+
+Firmlogics (http://flogics.com)
