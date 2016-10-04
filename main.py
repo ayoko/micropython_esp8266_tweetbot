@@ -1,6 +1,6 @@
 # Twitter bot for MicroPython v1.8.4 (ESP8166)
 #
-# Copyright (c) 2016, Atsushi Yokoyama, Firmlogics
+# Copyright (c) 2016, Atsushi Yokoyama, Firmlogics (http://flogics.com)
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
