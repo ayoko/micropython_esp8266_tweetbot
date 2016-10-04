@@ -12,7 +12,8 @@ obtain the code below even though it is not merged to the main stream, yet.
 
 https://github.com/micropython/micropython-lib/pull/82/files
 
-In addition, you need some authentication code for Twitter.  You can obtain
+In addition, you need some authentication keys and secrets for Twitter.
+You can obtain
 them at https://dev.twitter.com/oauth/overview/application-owner-access-tokens .
 You can apply them to the variables in the tweet.py as following.
 
