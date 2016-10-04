@@ -9,6 +9,7 @@ if you add more functionality.
 
 To run, we need a modified hmac.py which is compatible with SHA1.  We can
 obtain the code below even though it is not merged to the main stream, yet.
+(Thanks to the patch author.)
 
 https://github.com/micropython/micropython-lib/pull/82/files
 
